@@ -1,0 +1,67 @@
+html, body{
+    padding:0;
+    margin: 0;
+    font-family: Courier, serif;
+}
+
+table{
+    width: 660px;
+    height: 290px;
+    font-size: 25px;
+    font-family: Courier, serif;
+    position: absolute;
+    top: 450px;
+    left: 130px;
+}
+#blw_table {
+    width: 660px;
+    height: 290px;
+    line-height: 38px;
+    font-size: 25px;
+    font-family: Courier, serif;
+    position: absolute;
+    top: 790px;
+    left: 130px;
+    text-align: justify;
+}
+
+#signature{
+    font-size: 25px;
+    font-family: Courier, serif;
+    position: absolute;
+    top: 1080px;
+    left: 580px;
+    text-align: center;
+    line-height: 50px;
+}
+
+#certificate_background{
+    width:951px;
+    height: 1350px;
+    margin:0;
+    padding:0;
+    position: absolute;
+}
+
+#certificate_background img{
+    width:951px;
+    height: 1350px;
+}
+
+#SchoolName{
+
+    color: #FFF;
+    text-align: center;
+    font-size: 39px;
+    top: 25px;
+    left: 173px;
+    width: 590px;
+    width: 590px;
+    height: 48px;
+    padding: 5px;
+    line-height: 60px;
+    border: 1px solid red;
+    position: absolute;
+    border: none;
+
+}
